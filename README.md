@@ -2,6 +2,8 @@
 
 Design Tool: Figma
 
+Figma Link: https://www.figma.com/design/8RE8Se7C6kLPuKInPCIIcw/coffee-interfase-2?node-id=0-1&t=vluYTQfYBOlyl8aJ-1
+
 Project Description:
 
 Designed a modern and user-friendly Coffee Ordering Mobile App Interface using Figma. The design focuses on simplicity, visual appeal, and a smooth user experience, making it easy for users to explore coffee products and place orders.
@@ -17,7 +19,6 @@ Key Features:
 - User-friendly ordering experience.
 
 Design Goal:
-
 To create an attractive and intuitive mobile app experience that makes ordering coffee simple, enjoyable, and convenient.
 
 Tools & Skills: Figma, UI Design, UX Research, Wireframing, Prototyping, Mobile App Design.
